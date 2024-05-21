@@ -1,0 +1,21 @@
+{
+    "name": "usbcsusb/composerexample",
+    "description": "example",
+    "type": "project",
+    "require": {
+        "swow/swow": "v1.5.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Usbcsusb\\Composerexample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "from china"
+        }
+    ],
+    "minimum-stability": "dev"
+}
+
